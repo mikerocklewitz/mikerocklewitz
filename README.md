@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mikerocklewitz. I'm 33. He/Him.
-- 👀 I’m interested in 3D printing and electronics. I have a pretty awesome lab with pretty awesome gear.
-- 🌱 I’m currently learning everything I can.
-- 💞️ I’m looking to collaborate on the things I'm active in. Maybe more?  
+- 👋 Hi, I’m @mikerocklewitz. I'm 35. My pronouns are FU.
+- 👀 I’m interested in 3D printing and electronics. I have an awesome lab with fun gear.
+- 🌱 I’m currently learning everything I can - fpv drones are a playground for applying concepts.
+- 💞️ I use github for things.
 - 📫 How to reach me ...  Its not difficult.  
 
 <!---
